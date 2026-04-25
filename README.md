@@ -10,4 +10,4 @@ The Juypter notebook in this source repository is the means through which I atte
 
 - [Report](https://drive.google.com/file/d/1as_KWHo4wAoHVg_R0hOVx4kw5xVc8uNE/view?usp=drive_link)
 - [Slides](https://docs.google.com/presentation/d/1m7UQt46nfth0Fvr20tGCNI9watKbbwI2EQxl1EKF_3I/edit?usp=drive_link)
-- [Presentation](https://docs.google.com/presentation/d/1m7UQt46nfth0Fvr20tGCNI9watKbbwI2EQxl1EKF_3I/edit?usp=drive_link)
+- [Presentation](https://drive.google.com/file/d/1GfxUDN8DaH2WPLIVmx53E2jyWLmho1uJ/view?usp=drive_link)
